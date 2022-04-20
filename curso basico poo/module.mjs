@@ -1,0 +1,10 @@
+import { PlatziClass } from './main.mjs';
+const clase67 = new PlatziClass({ name: 'Clase 67', videoID: '456fdgsdf' });
+clase67.play();
+clase67.stop();
+clase67.play();
+clase67.stop();
+clase67.play();
+clase67.stop();
+clase67.play();
+clase67.stop();
